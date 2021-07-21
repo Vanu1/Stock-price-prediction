@@ -24,5 +24,7 @@ As we know that time series model needs to be trained every time in production w
   
 
 ## Papers Referred
-1.Stock Price Prediction Using News Sentiment Analysis: http://davidanastasiu.net/pdf/papers/2019-MohanMSVA-BDS-stock.pdf <break>
-2.Sentiment Analysis of Twitter Data for Predicting Stock Market Movements: http://arxiv.org/pdf/1610.09225v1.pdf
+  <ol>
+<li>Stock Price Prediction Using News Sentiment Analysis: http://davidanastasiu.net/pdf/papers/2019-MohanMSVA-BDS-stock.pdf <break>
+<li>Sentiment Analysis of Twitter Data for Predicting Stock Market Movements: http://arxiv.org/pdf/1610.09225v1.pdf
+  </ol>
